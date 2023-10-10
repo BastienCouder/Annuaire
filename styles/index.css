@@ -1,0 +1,35 @@
+*{
+ font-family: 'Noto Sans', sans-serif;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #F5F5F5;
+  }
+
+  @media (max-width: 767px) {
+    ::-webkit-scrollbar {
+        display: none;
+        width: 0;
+        background-color: transparent;
+    }
+}
+
+#menuToggle {
+    display: none;
+}
+
+#mobileMenu {
+    display: none;
+}
+
+#menuToggle.open + #mobileMenu {
+    display: block;
+}
+
+@media (max-width: 767px) {
+    #menuToggle {
+        display: block;
+    }
+}
