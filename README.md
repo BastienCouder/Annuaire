@@ -7,7 +7,7 @@ Ce projet est un annuaire qui permet d'enregistrer des contacts.
 
 -Création d'un contact
 -Gestion des contacts
--Recherche contacts
+-Recherche des contacts
 
 ### Pré-requis
 
