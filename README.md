@@ -19,7 +19,7 @@ Ce qu'il est requis pour commencer avec le projet...
 
 * [Linux](https://www.linux.org/) - Système d'exploitation
 * [PHP](https://www.php.net/manual/fr/intro-whatis.php) - Langage back-end
-* [Apache2](https://httpd.apache.org/) - serveur HTTP
+* [Apache2](https://httpd.apache.org/) - Serveur HTTP
 * [MariaDB](https://mariadb.org/) - Base de données (SQL)
 
 ## Auteurs
